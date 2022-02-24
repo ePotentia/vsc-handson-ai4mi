@@ -13,7 +13,7 @@ The second case study repeats the defect classification exercise but uses deep l
 The datasets included within this repository were duplicated for ease of use. When used please attribute the original sources:
 
 - [Semeion steel plate faults dataset](https://archive.ics.uci.edu/ml/datasets/Steel+Plates+Faults)
-- [NEU surface dafect database](http://faculty.neu.edu.cn/songkechen/zh_CN/zhym/263269/list/index.htm)
+- [NEU surface defect database](http://faculty.neu.edu.cn/songkechen/zh_CN/zhym/263269/list/index.htm)
 
 ## Accreditation
 
