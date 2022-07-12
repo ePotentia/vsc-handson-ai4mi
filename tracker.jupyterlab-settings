@@ -1,0 +1,10 @@
+{
+    "markdownCellConfig": {
+        "lineNumbers": true
+    },
+    "codeCellConfig": {
+         "lineNumbers": true
+    },
+    "renderCellOnIdle": false,
+    "numberCellsToRenderDirectly": 10000000000000
+}
